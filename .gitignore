@@ -1,0 +1,43 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Tic-Tac-Toe with AI (Java)/*
+!/Tic-Tac-Toe with AI (Java)/task/
+/Tic-Tac-Toe with AI (Java)/task/*
+!/Tic-Tac-Toe with AI (Java)/task/src
+
+# Project exclude paths
+/Topics/Interface/Mutable geometric shapes/out/
+/Topics/Interface/Mutable geometric shapes/out/production/classes/
+/Topics/Interface/Properties of methods/out/
+/Topics/Interface/Properties of methods/out/production/classes/
+/Topics/Interface/Theory/out/
+/Topics/Interface/Theory/out/production/classes/
+/Topics/Interface/What does an interface define/out/
+/Topics/Interface/What does an interface define/out/production/classes/
+/Topics/Recursion/Determine results of calling the method/out/
+/Topics/Recursion/Determine results of calling the method/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/K-combination/out/
+/Topics/Recursion/K-combination/out/production/classes/
+/Topics/Recursion/N-th power/out/
+/Topics/Recursion/N-th power/out/production/classes/
+/Topics/Recursion/Select statement/out/
+/Topics/Recursion/Select statement/out/production/classes/
+/Topics/Recursion/Theory/out/
+/Topics/Recursion/Theory/out/production/classes/
+/util/out/
+/util/out/production/classes/
